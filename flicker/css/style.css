@@ -1,0 +1,17 @@
+li {
+    list-style-type: none; /* Убираем маркеры */
+}
+ul {
+    text-align: left;
+    margin-left: 2em; /* Отступ слева в браузере IE и Opera */
+    padding-left: 0; /* Отступ слева в браузере Firefox, Safari, Chrome */
+}
+
+
+.wrapper{
+    padding-top:5em;
+}
+
+.fancybox-outer .fancybox-inner  a{
+    position: relative !important;
+}

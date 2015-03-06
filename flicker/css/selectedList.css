@@ -1,0 +1,5 @@
+.selected-list{}
+.selected-list:hover{
+    background: rgba(230, 255, 226, 0.84);
+    cursor: pointer;
+}

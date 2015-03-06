@@ -1,0 +1,50 @@
+/*Holder _photos*/
+._photos{
+    background: rgba(232, 232, 232, 0.32);
+    text-align: center;
+    padding-top: 1em;
+}
+
+
+._photos .photo-border{
+    margin-left: 1em;
+    background: #ffffff;
+    display: inline-block;
+    cursor: pointer;
+    overflow: hidden;
+    text-align: center;
+    /*display: block !important;*/
+}
+
+._photos  img{
+    height: 5em;
+    width: 5em;
+    margin: 0.5em;
+}
+._photos. photo-border img{
+    width: 7em;
+
+}
+
+._photos .toolbar{
+   text-align: left;
+   margin-left: 1em;
+   margin-bottom: 1em;
+   background: rgba(23, 6, 6, 0.03);
+   width: 63em;
+   padding: 0.2em 1em;
+}
+
+._photos .sort-button{
+    text-indent: 3em;
+}
+
+
+/*._photos .new-gallery-style{*/
+    /*position: static !important;*/
+/*}*/
+
+/*._photos .new-gallery-style img{*/
+    /*width: 10em;*/
+    /*height: 10em;*/
+/*}*/

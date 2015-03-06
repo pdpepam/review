@@ -1,0 +1,22 @@
+/*Holder _categories*/
+._categories{
+    padding-left: 2em;
+    margin-bottom: 1em;
+}
+
+._categories .category{
+    margin-bottom: 1em;
+    margin-left: 0.5em;
+    cursor: pointer;
+    font-size: 1.5em;
+}
+
+._categories .item-category{
+   display: inline-block;
+    margin-left: 1.2em;
+    margin-bottom: 0.5em;
+}
+
+._categories .selected-category{
+    background: red;
+}

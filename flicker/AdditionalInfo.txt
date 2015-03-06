@@ -1,0 +1,58 @@
+info:{
+    yahoMail:{
+         'name'          : 'epamFlicker',
+        
+         'lastName'      : 'epamFlicker',
+        
+         'userName'      : 'epamFlicker',
+       
+         'phone'         : 38083071452,
+     
+         'key'           : '5896a267abef3cff8a41fb358d15efad',
+    
+         'secter'        : '644c7b66d607bc6a'
+    }
+}
+
+funcyBox
+http://www.fancyapps.com/fancybox/
+
+
+
+interesting gallery http://dropthebit.com/demos/photobox/
+
+
+
+https://www.flickr.com/services/api/explore/flickr.interestingness.getList
+
+http://habrahabr.ru/post/146777/
+
+https://www.flickr.com/services/api/auth.oauth.html
+
+https://www.flickr.com/services/api/auth.oauth.html
+
+jQuery
+http://stackoverflow.com/questions/27289556/trouble-with-flicker-api-jquery-method-coinslider
+
+Кусок кода
+https://teamtreehouse.com/forum/ajax-api-flicker-help-explain-why-we-need-to-concatenate-photolink-with-like-this-href-photolink
+
+
+http://sp.example.com/",
+                oauth_consumer_key="0685bd9184jfhq22",
+                oauth_token="ad180jjd733klru7",
+                oauth_signature_method="HMAC-SHA1",
+                oauth_signature="wOJIO9A2W5mFwDgiDvZbTSMK%2FPY%3D",
+                oauth_timestamp="137131200",
+                oauth_nonce="4572616e48616d6d65724c61686176",
+                oauth_version="1.0
+
+
+http://sp.example.com/",
+                oauth_consumer_key="66adaa092b9598bb9340a7ca83934064",
+                oauth_token="ad180jjd733klru7",
+                oauth_signature_method="HMAC-SHA1",
+                oauth_signature="wOJIO9A2W5mFwDgiDvZbTSMK%2FPY%3D",
+                oauth_timestamp="137131200",
+                oauth_nonce="4572616e48616d6d65724c61686176",
+                oauth_version="1.0
